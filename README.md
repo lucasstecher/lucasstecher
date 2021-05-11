@@ -1,4 +1,4 @@
-# Olá, eu sou Emerson Moreira
+# Olá, eu sou Lucas V. Stecher!
 
 ```ruby
 class Programmer
