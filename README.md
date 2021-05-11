@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas V. Stecher!
+# Olá, eu sou Lucas Stecher!
 
 ```ruby
 class Programmer
